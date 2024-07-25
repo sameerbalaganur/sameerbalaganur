@@ -1,4 +1,4 @@
-# Salam, I'm Sameer! 👋
+# Hiiiiiiii, I'm Sameer! 👋
 
 I'm a Senior Cloud Automation Engineer with a deep passion for DevOps and cloud technologies. My expertise includes AWS, Kubernetes, CI/CD, Terraform, Serverless, and Boto3. I thrive on challenging projects that allow me to delve into the intricacies of these technologies.
 
