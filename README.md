@@ -1,4 +1,6 @@
-# Hellooooo, I'm Sameer! 👋
+
+# Hellooooo, I'm Sameerahmed! :surfer:
+### You can call me Sameer! :eyeglasses:
 
 I'm a Senior Cloud Automation Engineer with a deep passion for DevOps and cloud technologies. My expertise includes AWS, Kubernetes, CI/CD, Terraform, Serverless, and Boto3. I thrive on challenging projects that allow me to delve into the intricacies of these technologies.
 
@@ -6,12 +8,12 @@ I am always going to be a student.
 
 In my current role, I work for the Cloud Center of Excellence (CCoE) department. Our small, dedicated two-person team handles a wide range of responsibilities, from internal automations and projects to packaged solutions and support. Despite the broad scope of our work, I particularly enjoy diving deep into the world of DevOps!! 
 
-## About Me
+## About Me :movie_camera:
 - 🎓 I have a background in Tech Journalism, AWS Serverless, and DevOps.
 - 💼 Currently, I'm working as a Senior Cloud Automation Engineer at Rapyder Cloud Solutions.
 - 🌱 I’m currently learning everything I possibly can, but at this point, I am getting my hands dirty with K8s, Jenkins, and GitHub Actions.
 
-## Tech Stack
+## Tech Stack :books:
 
 <div align="center">
   <a href="https://github.com/sameerbalaganur" target="_blank">
@@ -35,7 +37,7 @@ In my current role, I work for the Cloud Center of Excellence (CCoE) department.
 </div>
 
 
-## 🔧 Technologies and Tools
+## Technologies and Tools 🔧
 
 [](https://github.com/sameerbalaganur#-technologies-and-tools)
 
@@ -47,17 +49,19 @@ In my current role, I work for the Cloud Center of Excellence (CCoE) department.
 -   **Scripting**: Bash, Python
 -   **Version Control**: Git, GitHub
 
-## Projects
+## Projects :star:
 - **RVMS**: A serverless visitor management system. 
   - [https://github.com/sameerbalaganur/visitor-management-system](URL)
 - **More on the way**
 
 
-## Goals
+
+## Goals :dart:
 I'm always looking for opportunities to:
-- Collaborate on interesting projects
-- Learn new technologies
-- Share knowledge and help others
+-  :speech_balloon: Collaborate on interesting projects
+- :sparkles: Learn new technologies and go deep
+- :raised_hands: Share knowledge and help others
+- :rocket: Launch a new personal project
 
 ## Get in Touch
 - 📫 You can reach me at sameerbalaganur@gmail.com
@@ -67,3 +71,7 @@ Thanks for visiting my profile! Feel free to check out my repositories and get i
 
 
 
+## Personal Interest
+- I used to play basketball, now I am on my fitness journey to become better and make a comeback! :muscle: 
+- I am into RPGs :crossed_swords: like Elder Scrolls V: Skyrim!
+- I listen to podcasts, haven't watched a complete series in a while.
