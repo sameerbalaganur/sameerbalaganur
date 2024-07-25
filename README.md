@@ -10,7 +10,6 @@ In my current role, I work for the Cloud Center of Excellence (CCoE) department.
 - 🌱 I’m currently learning everything I possibly can, but at this point, I am getting my hands dirty with K8s, Jenkins, and GitHub Actions.
 
 ## Tech Stack
-[## Tech Stack
 
 <div align="center">
   <a href="https://github.com/sameerbalaganur" target="_blank">
