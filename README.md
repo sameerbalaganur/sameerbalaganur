@@ -2,6 +2,8 @@
 
 I'm a Senior Cloud Automation Engineer with a deep passion for DevOps and cloud technologies. My expertise includes AWS, Kubernetes, CI/CD, Terraform, Serverless, and Boto3. I thrive on challenging projects that allow me to delve into the intricacies of these technologies.
 
+I am always going to be a student.
+
 In my current role, I work for the Cloud Center of Excellence (CCoE) department. Our small, dedicated two-person team handles a wide range of responsibilities, from internal automations and projects to packaged solutions and support. Despite the broad scope of our work, I particularly enjoy diving deep into the world of DevOps!! 
 
 ## About Me
