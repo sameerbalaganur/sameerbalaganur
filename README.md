@@ -37,7 +37,7 @@ In my current role, I work for the Cloud Center of Excellence (CCoE) department.
 
 [](https://github.com/sameerbalaganur#-technologies-and-tools)
 
--   **Cloud**: AWS
+-   **Cloud**: AWS, Azure
 -   **Containerization**: Docker, Kubernetes
 -   **CI/CD**: Jenkins, GitLab CI/CD, GitHub Actions
 -   **Configuration Management**: Ansible, Terraform
