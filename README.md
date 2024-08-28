@@ -50,9 +50,10 @@ In my current role, I work for the Cloud Center of Excellence (CCoE) department.
 -   **Version Control**: Git, GitHub
 
 ## Projects :star:
+- **Dockerise and orchestrate [Kubernetes]**: This project highlights proficiency in Kubernetes and containerization, demonstrating the ability to deploy, scale, and manage web applications efficiently in a K8s environment, underscoring cloud-native deployment skills. 
+  - [https://github.com/sameerbalaganur/k8s-pro](URL)
 - **RVMS**: A serverless visitor management system. 
   - [https://github.com/sameerbalaganur/visitor-management-system](URL)
-- **More on the way**
 
 
 
