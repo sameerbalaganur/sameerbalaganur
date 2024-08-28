@@ -4,7 +4,7 @@
 
 I'm a Senior Cloud Automation Engineer with a deep passion for DevOps and cloud technologies. My expertise includes AWS, Kubernetes, CI/CD, Terraform, Serverless, and Boto3. I thrive on challenging projects that allow me to delve into the intricacies of these technologies.
 
-I am always going to be a student.
+I am always going to be a student. And **==PROJECTS MENTIONED BELOW!==**
 
 In my current role, I work for the Cloud Center of Excellence (CCoE) department. Our small, dedicated two-person team handles a wide range of responsibilities, from internal automations and projects to packaged solutions and support. Despite the broad scope of our work, I particularly enjoy diving deep into the world of DevOps!! 
 
@@ -34,14 +34,21 @@ In my current role, I work for the Cloud Center of Excellence (CCoE) department.
   <a href="https://boto3.amazonaws.com/v1/documentation/api/latest/index.html" target="_blank">
     <img src="https://img.shields.io/badge/Boto3-5A29E4?style=for-the-badge&logo=python&logoColor=white" alt="Boto3">
   </a>
+  <a href="https://github.com/sameerbalaganur" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://prometheus.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Scripting">
+  </a>
 </div>
 
-## Projects :fire::fire::star::fire::fire:
-- **Dockerise and Orchestrate [Kubernetes]**: This project showcases proficiency in Kubernetes and containerization, highlighting the ability to efficiently deploy, scale, and manage web applications within a Kubernetes environment, emphasizing cloud-native deployment skills.
-  - [Checkout this Repo!](https://github.com/sameerbalaganur/k8s-pro)
-  
-- **RVMS**: A serverless visitor management system.
-  - [Checkout this Repo!](https://github.com/sameerbalaganur/visitor-management-system)
+
 
 ## Technologies and Tools 🔧
 
@@ -54,6 +61,15 @@ In my current role, I work for the Cloud Center of Excellence (CCoE) department.
 -   **Monitoring**: Prometheus, Grafana, ELK Stack
 -   **Scripting**: Bash, Python
 -   **Version Control**: Git, GitHub
+
+
+## Projects :fire::fire::star::fire::fire:
+- **Dockerise and Orchestrate [Kubernetes]**: This project showcases proficiency in Kubernetes and containerization, highlighting the ability to efficiently deploy, scale, and manage web applications within a Kubernetes environment, emphasizing cloud-native deployment skills.
+  - [Checkout this Repo!](https://github.com/sameerbalaganur/k8s-pro)
+  
+- **RVMS**: A serverless visitor management system.
+  - [Checkout this Repo!](https://github.com/sameerbalaganur/visitor-management-system)
+
 
 
 ## Goals :dart:
