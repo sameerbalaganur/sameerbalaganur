@@ -36,6 +36,12 @@ In my current role, I work for the Cloud Center of Excellence (CCoE) department.
   </a>
 </div>
 
+## Projects :fire::fire::star::fire::fire:
+- **Dockerise and Orchestrate [Kubernetes]**: This project showcases proficiency in Kubernetes and containerization, highlighting the ability to efficiently deploy, scale, and manage web applications within a Kubernetes environment, emphasizing cloud-native deployment skills.
+  - [Checkout this Repo!](https://github.com/sameerbalaganur/k8s-pro)
+  
+- **RVMS**: A serverless visitor management system.
+  - [Checkout this Repo!](https://github.com/sameerbalaganur/visitor-management-system)
 
 ## Technologies and Tools 🔧
 
@@ -48,15 +54,6 @@ In my current role, I work for the Cloud Center of Excellence (CCoE) department.
 -   **Monitoring**: Prometheus, Grafana, ELK Stack
 -   **Scripting**: Bash, Python
 -   **Version Control**: Git, GitHub
-
-## Projects :fire::fire::star::fire::fire:
-- **Dockerise and Orchestrate [Kubernetes]**: This project showcases proficiency in Kubernetes and containerization, highlighting the ability to efficiently deploy, scale, and manage web applications within a Kubernetes environment, emphasizing cloud-native deployment skills.
-  - [Checkout this Repo!](https://github.com/sameerbalaganur/k8s-pro)
-  
-- **RVMS**: A serverless visitor management system.
-  - [Checkout this Repo!](https://github.com/sameerbalaganur/visitor-management-system)
-
-
 
 
 ## Goals :dart:
