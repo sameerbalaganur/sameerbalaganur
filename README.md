@@ -5,7 +5,7 @@
 
 I'm a Technical Member of Staff (AWS SRE) with a deep passion for DevOps and cloud technologies. My expertise includes AWS, Kubernetes, CI/CD, Terraform, Serverless, and Boto3. I thrive on challenging projects that allow me to delve into the intricacies of these technologies.
 
-I am always going to be a student. And ***PROJECTS MENTIONED BELOW!*** :star: :star: :star:
+I am always going to be a student. Also some ongoing ***PROJECTS MENTIONED BELOW!*** :star: :star: :star:
 
 In my current role, I work for AthenaHealth. Our team handles a wide range of responsibilities, from internal automations, SRE for our products and much more. Despite the broad scope of our work, I particularly enjoy diving deep into the world of DevOps!! 
 
