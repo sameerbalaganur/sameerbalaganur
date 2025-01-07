@@ -1,5 +1,6 @@
 
-# Hellooooo, I'm Sameerahmed! :surfer:
+# *Just because something works doesn’t mean it can’t be improved!*
+## Hi there! I'm Sameerahmed! :surfer:
 ### You can call me Sameer! :eyeglasses:
 
 I'm a Technical Member of Staff (AWS SRE) with a deep passion for DevOps and cloud technologies. My expertise includes AWS, Kubernetes, CI/CD, Terraform, Serverless, and Boto3. I thrive on challenging projects that allow me to delve into the intricacies of these technologies.
